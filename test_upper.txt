@@ -1,0 +1,15 @@
+This is a test file to see if my. counter this! this! "This" will, recognize upper case commands.
+MOVQ
+
+     MOV
+
+mov
+
+RET
+        ret
+
+RET
+
+call
+            CALL
+call push pop bop it twist it pull it
